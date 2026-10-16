@@ -4,7 +4,7 @@
 <a href="https://guwonsoft.com" target="_blank" rel="noopener noreferrer">
   <img src="https://guwonsoft.com/brand/guwon-appicon-512.svg" 
        alt="GUWON SOFT Logo" 
-       width="480"
+       width="120"
        onerror="this.src='https://guwonsoft.com/og-image.png'; this.style.borderRadius='12px';"/>
 </a>
 
