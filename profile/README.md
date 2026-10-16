@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner & Brand Identity -->
-<a href="https://guwonsoft.com" target="_blank" rel="noopener noreferrer">
+<a href="https://guwonsoft.com/brand/guwon-appicon-512.svg" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/guwonsoft/.github/main/assets/guwon-logo-horizontal-white.svg" 
        alt="GUWON SOFT Logo" 
        width="480"
